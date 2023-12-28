@@ -96,8 +96,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 西藏卫视,http://gongzhuling.lnott.top:58000/hls/56/index.m3u8
 兵团卫视,http://gongzhuling.lnott.top:58000/hls/58/index.m3u8
 宁夏卫视,http://gongzhuling.lnott.top:58000/hls/61/index.m3u8
-北京,#genre#
-石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
 香港台湾,#genre#
 Movies!,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
@@ -124,6 +123,7 @@ Movies!,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 北京,#genre#
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid#http://live.sjsrm.com/bjsjs/sd/live.m3u8
+石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 房山无线,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 顺义电视台,https://livebjsy.chinamcache.com/live/zb02.m3u8
 BRTV新闻,http://111.192.168.161:8888/rtp/239.3.1.159:8000/北京新闻.m3u8
