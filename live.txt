@@ -29,9 +29,7 @@ CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8#http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,http://gongzhuling.lnott.top:58000/hls/1/index.m3u8
 CCTV2,http://gongzhuling.lnott.top:58000/hls/2/index.m3u8
