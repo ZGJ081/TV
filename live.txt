@@ -97,6 +97,10 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 香港台湾,#genre#
 Movies!,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+信号测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226440/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226441/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226441/index.m3u8
 
 📡卫视 频道,#genre#
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
@@ -502,8 +506,10 @@ CETV4,http://gongzhuling.lnott.top:58000/hls/72/index.m3u8
 北京卡酷,http://gongzhuling.lnott.top:58000/hls/63/index.m3u8
 
 HBO等影视,#genre#
-CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/7b32f53261-0-0-3d182015277233e27cbca4cf9285edb3/index.m3u8#http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://gxdl-lhs.8866.org:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+信号测试,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226440/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226441/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226441/index.m3u8
 FOX Movies，https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8#http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO3,http://94.156.33.91/Cinemax/mono.m3u8
